@@ -6,8 +6,8 @@
 
 ## Technologies
 
-python programming - 3.7.13
-libraries used : sys , fire , questionary,csv and pathlib
+- python programming - 3.7.13
+- libraries used : sys , fire , questionary, csv and pathlib
 
 ---
 
@@ -19,7 +19,7 @@ In this section, you should include detailed installation notes containing code 
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+- Project is user interactive and requires user inputs for data
 
 ---
 
