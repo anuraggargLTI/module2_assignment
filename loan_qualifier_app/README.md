@@ -1,12 +1,13 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+- Loan qualifier application uses certain criterias to evaluate user's eligibility for a home loan
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+python programming - 3.7.13
+libraries used : sys , fire , questionary,csv and pathlib
 
 ---
 
