@@ -1,21 +1,3 @@
-  661  git add terminal_history.txt
-  662  git commit -m "adding terminal_history.tx"
-  663  git push
-  664  history 50>terminal_history.txt
-  665  git status
-  666  git commit terminal_history.txt -m "updating terminal_history.txt"
-  667  git push
-  668  ls
-  669  cd loan_qualifier_app
-  670  ls
-  671  cd qualifier/
-  672  ls
-  673  d utils
-  674  cd utils
-  675  ls
-  676  cd fileio.py 
-  677  python fileio.py
-  678  clear
   679  ls
   680  cd ..
   681  ls
@@ -48,3 +30,21 @@
   708  git push
   709  git status
   710  history 50 > terminal_history.txt
+  711  git status
+  712  git add terminal_history.txt
+  713  git commit terminal_history.txt -m "updating terminal history"
+  714  git push
+  715  git status
+  716  git add README.md
+  717  git commit README.md -m "updating README file"
+  718  git push
+  719  git status
+  720  git add README.md
+  721  git commit README.md -m "updating readme file"
+  722  git push
+  723  clear
+  724  git status
+  725  git add README.md
+  726  git commit README.md -m "read me file updated with description"
+  727  git push
+  728  history 50 > terminal_history.txt
