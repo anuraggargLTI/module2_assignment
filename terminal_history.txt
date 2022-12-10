@@ -1,13 +1,3 @@
-  651  git push
-  652  cd..
-  653  cd ..
-  654  ls
-  655  git status
-  656  git commit -m "updating terminal_history.txt"
-  657  git push
-  658  ls
-  659  git add terminal_history.txt
-  660  git push
   661  git add terminal_history.txt
   662  git commit -m "adding terminal_history.tx"
   663  git push
@@ -48,3 +38,13 @@
   698  cd ..
   699  pwd
   700  history 50 > terminal_history.txt
+  701  git commit terminal_history.txt -m "updating terminal history"
+  702  git push
+  703  clear
+  704  pwd
+  705  git status
+  706  git add README.md
+  707  git commit README.md -m "updating the folder description"
+  708  git push
+  709  git status
+  710  history 50 > terminal_history.txt
