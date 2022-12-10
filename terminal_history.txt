@@ -1,0 +1,50 @@
+  639  clear
+  640  python app.py
+  641  clear
+  642  python app.py
+  643  python app.py
+  644  clear
+  645  python app.py
+  646  clear
+  647  git status
+  648  git commit -m "updating the code for csv writer"
+  649  git commit app.py -m "updating the save_qualifying_loans function"
+  650  git push app.py
+  651  git push
+  652  cd..
+  653  cd ..
+  654  ls
+  655  git status
+  656  git commit -m "updating terminal_history.txt"
+  657  git push
+  658  ls
+  659  git add terminal_history.txt
+  660  git push
+  661  git add terminal_history.txt
+  662  git commit -m "adding terminal_history.tx"
+  663  git push
+  664  history 50>terminal_history.txt
+  665  git status
+  666  git commit terminal_history.txt -m "updating terminal_history.txt"
+  667  git push
+  668  ls
+  669  cd loan_qualifier_app
+  670  ls
+  671  cd qualifier/
+  672  ls
+  673  d utils
+  674  cd utils
+  675  ls
+  676  cd fileio.py 
+  677  python fileio.py
+  678  clear
+  679  ls
+  680  cd ..
+  681  ls
+  682  cd ..
+  683  ls
+  684  python app.py
+  685  cd ..
+  686  ls
+  687  pwd
+  688  history 50 > terminal_history.txt
