@@ -1,15 +1,3 @@
-  639  clear
-  640  python app.py
-  641  clear
-  642  python app.py
-  643  python app.py
-  644  clear
-  645  python app.py
-  646  clear
-  647  git status
-  648  git commit -m "updating the code for csv writer"
-  649  git commit app.py -m "updating the save_qualifying_loans function"
-  650  git push app.py
   651  git push
   652  cd..
   653  cd ..
@@ -48,3 +36,15 @@
   686  ls
   687  pwd
   688  history 50 > terminal_history.txt
+  689  git status
+  690  git commit terminal_history.txt -m "updating terminal_history.txt"
+  691  git push
+  692  clear
+  693  cd loan_qualifier_app/
+  694  ls
+  695  git status
+  696  git commit app.py -m "updating app.py for the changes to remove save_qualifying_loans function and to add fileio save_qualifying_loans in the import"
+  697  git push
+  698  cd ..
+  699  pwd
+  700  history 50 > terminal_history.txt
