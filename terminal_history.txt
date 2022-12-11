@@ -1,29 +1,3 @@
-  765  git push
-  766  pwd
-  767  git status
-  768  pwd
-  769  ls
-  770  clear
-  771  pwd
-  772  ls
-  773  python fileio.py
-  774  pwd
-  775  cd ..
-  776  cd ..
-  777  pwd
-  778  ls
-  779  python app.py
-  780  clear
-  781  clear
-  782  pwd
-  783  ls
-  784  cd qualifier
-  785  ls
-  786  cd utils
-  787  ls
-  788  python fileio.py
-  789  ls
-  790  cd ..
   791  cd ..
   792  ls
   793  python app.py
@@ -48,3 +22,29 @@
   812  cd ..
   813  ls
   814  history 50 > terminal_history.txt
+  815  git status
+  816  git commit terminal_history.txt -m "updating terminal history"
+  817  git push
+  818  clear
+  819  git status
+  820  git commit README.md -m "updated read me file"
+  821  git push
+  822  ls
+  823  cd loan_qualifier_app/
+  824  ls
+  825  git commit README.md -m "updating read me file"
+  826  git push
+  827  git status
+  828  clear
+  829  ls
+  830  python app.py
+  831  git status
+  832  git commit README.md -m "added sample image"
+  833  git push
+  834  git status
+  835  git add sample_output_display.png
+  836  git commit sample_output_display.png
+  837  git commit sample_output_display.png -m "adding sample image file"
+  838  git push
+  839  cd ..
+  840  history 50 > terminal_history.txt
