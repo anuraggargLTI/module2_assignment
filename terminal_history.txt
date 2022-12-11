@@ -1,50 +1,50 @@
-  679  ls
-  680  cd ..
-  681  ls
-  682  cd ..
-  683  ls
-  684  python app.py
-  685  cd ..
-  686  ls
-  687  pwd
-  688  history 50 > terminal_history.txt
-  689  git status
-  690  git commit terminal_history.txt -m "updating terminal_history.txt"
-  691  git push
-  692  clear
-  693  cd loan_qualifier_app/
-  694  ls
-  695  git status
-  696  git commit app.py -m "updating app.py for the changes to remove save_qualifying_loans function and to add fileio save_qualifying_loans in the import"
-  697  git push
-  698  cd ..
-  699  pwd
-  700  history 50 > terminal_history.txt
-  701  git commit terminal_history.txt -m "updating terminal history"
-  702  git push
-  703  clear
-  704  pwd
-  705  git status
-  706  git add README.md
-  707  git commit README.md -m "updating the folder description"
-  708  git push
-  709  git status
-  710  history 50 > terminal_history.txt
-  711  git status
-  712  git add terminal_history.txt
-  713  git commit terminal_history.txt -m "updating terminal history"
-  714  git push
-  715  git status
-  716  git add README.md
-  717  git commit README.md -m "updating README file"
-  718  git push
-  719  git status
-  720  git add README.md
-  721  git commit README.md -m "updating readme file"
-  722  git push
-  723  clear
-  724  git status
-  725  git add README.md
-  726  git commit README.md -m "read me file updated with description"
-  727  git push
-  728  history 50 > terminal_history.txt
+  765  git push
+  766  pwd
+  767  git status
+  768  pwd
+  769  ls
+  770  clear
+  771  pwd
+  772  ls
+  773  python fileio.py
+  774  pwd
+  775  cd ..
+  776  cd ..
+  777  pwd
+  778  ls
+  779  python app.py
+  780  clear
+  781  clear
+  782  pwd
+  783  ls
+  784  cd qualifier
+  785  ls
+  786  cd utils
+  787  ls
+  788  python fileio.py
+  789  ls
+  790  cd ..
+  791  cd ..
+  792  ls
+  793  python app.py
+  794  clear
+  795  ls
+  796  python app.py
+  797  clear
+  798  pwd
+  799  python app.py
+  800  python app.py
+  801  git status
+  802  ls
+  803  cd qualifier/
+  804  ls
+  805  cd utils
+  806  ls
+  807  git commit fileio.py -m "updating fileio.py with comments"
+  808  git push
+  809  git status
+  810  cd ..
+  811  cd ..
+  812  cd ..
+  813  ls
+  814  history 50 > terminal_history.txt
