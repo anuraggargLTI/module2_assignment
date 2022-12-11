@@ -8,18 +8,24 @@
 
 - python programming - 3.7.13
 - libraries used : sys , fire , questionary, csv and pathlib
+- fire - for the command line interfaces , help pages and entry-point
+- questionary - for interactive user prompts and dialogs
+- csv and pathlib - for csv read and write
 
 ---
 
 ## Installation Guide
 
 - can be run from the terminal but requires questionary and fire installations
+- pip install fire
+- pip install questionary
 
 ---
 
 ## Usage
 
 - Project is user interactive and requires user inputs for data
+- python app.py
 
 ---
 
