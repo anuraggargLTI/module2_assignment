@@ -26,6 +26,9 @@
 
 - Project is user interactive and requires user inputs for data
 - python app.py
+- sample output image :
+![<sample output image>](<./sample_output_display.png>)]
+
 
 ---
 
